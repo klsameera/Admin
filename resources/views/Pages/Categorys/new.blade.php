@@ -41,7 +41,6 @@
                     <input type="text" class="form-control" name="detail">
                 </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
-
             </form>
         </div>
     </div>
